@@ -561,7 +561,7 @@ header {
   padding: 140px 0 120px 0;
   background-color: #212B31;
   color: #FFFFFF;
-  background-image: url("/img/section-10/main.png");
+  background-image: url("../img/section-10/main.png");
   background-position: right 25%;
   background-repeat: no-repeat;
 }
@@ -889,7 +889,7 @@ header {
 .offer-block {
   width: 100%;
   min-height: 466px;
-  background-image: url("/img/section-13/background-image.png");
+  background-image: url("../img/section-13/background-image.png");
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
